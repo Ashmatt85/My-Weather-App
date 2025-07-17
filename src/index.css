@@ -1,0 +1,11 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  min-height: 100vh;
+  display: grid;
+  background: linear-gradient(to bottom,rgb(10, 10, 196), #3fa5ce, #857070);
+}
